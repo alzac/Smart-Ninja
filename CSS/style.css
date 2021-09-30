@@ -1,0 +1,33 @@
+
+/* To je koment zelo pomembno*/
+
+.green {
+color:green;
+font-family: monospace;
+}
+.monospace {
+    font-family:monospace;
+    font-size: 35px;
+}
+
+.blue {
+color:blue;
+}
+
+.red {
+color:red;
+}
+
+.h1 {
+    color:pink;
+}
+
+img {
+    width:400px;
+    border: 2px green dotted;
+}
+
+img:hover {
+    border: 2px green solid;
+}
+

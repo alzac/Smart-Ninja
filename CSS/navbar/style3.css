@@ -1,0 +1,60 @@
+body {
+margin: 0px;
+}
+.title{
+font-size: 22px;
+margin-left: 10px;
+}
+
+.navbar {
+background: #f1f1f1;
+height: 40px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.links {
+
+margin-right: 30px;
+}
+
+.povez {
+    margin:20px;
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: grey;
+  color: white;
+}
+
+.button1:hover {
+  background-color: #a3f7bf;
+  color: black;
+}
